@@ -1,4 +1,4 @@
-# hern
+# Narratex
 
 > A Vue.js project
 
