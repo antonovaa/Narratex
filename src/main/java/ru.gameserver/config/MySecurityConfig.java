@@ -35,7 +35,7 @@ public class MySecurityConfig extends WebSecurityConfigurerAdapter {
         UserDetails user =
                 User.withDefaultPasswordEncoder()
                         .username("Narratex")
-                        .password("SecurityNarratex")
+                        .password("*************")
                         .roles("ADMIN")
                         .build();
 
